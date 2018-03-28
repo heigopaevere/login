@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="katsed">katsed</string>
+    <string name="unustatud">unustatud</string>
+    <string name="registreeri">registreeri</string>
+    <string name="lähtesta">lähtesta</string>
+    <string name="perenimi">perenimi</string>
+    <string name="eesnimi">eesnimi</string>
+    <string name="pilt">pilt</string>
+</resources>

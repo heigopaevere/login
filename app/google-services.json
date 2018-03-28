@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "561887095989",
+    "firebase_url": "https://login-bee09.firebaseio.com",
+    "project_id": "login-bee09",
+    "storage_bucket": "login-bee09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561887095989:android:5a95b64dd3689577",
+        "android_client_info": {
+          "package_name": "com.example.opilane.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561887095989-6p49p32pgnspq3vp8tv35l8kont2ug3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opilane.login",
+            "certificate_hash": "cae03582620b68bdd50df862f4a8a6dcbcb1ec9d"
+          }
+        },
+        {
+          "client_id": "561887095989-1vpv7p24amkvp2rh3ksh2kslngmojsjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBthzlYggfa-___EGBEot9zppdmgydIzZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561887095989-1vpv7p24amkvp2rh3ksh2kslngmojsjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
